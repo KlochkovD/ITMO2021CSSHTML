@@ -56,7 +56,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab1", "Lab1", "{FB98AB8E-E
 	ProjectSection(SolutionItems) = preProject
 		about_buttons.html = about_buttons.html
 		classification.html = classification.html
+		form.html = form.html
 		gallery.html = gallery.html
+		global.css = global.css
 		img_1.jpg = img_1.jpg
 		img_2.jpg = img_2.jpg
 		img_3.jpg = img_3.jpg
@@ -64,9 +66,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab1", "Lab1", "{FB98AB8E-E
 		img_5.jpg = img_5.jpg
 		img_6.gif = img_6.gif
 		index.html = index.html
+		main.css = main.css
+		star.png = star.png
 		Style.css = Style.css
+		table.html = table.html
 		textFormat_1.html = textFormat_1.html
 		textFormat_2.html = textFormat_2.html
+		underline.png = underline.png
 	EndProjectSection
 EndProject
 Global
