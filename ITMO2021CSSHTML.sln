@@ -30,7 +30,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML", "HTML", "{74C58F9D-4
 		4.3.html = 4.3.html
 		4.4.html = 4.4.html
 		4.5.html = 4.5.html
+		5.1.html = 5.1.html
+		5.2.html = 5.2.html
+		5.3.html = 5.3.html
+		5.4.html = 5.4.html
+		5.5.html = 5.5.html
+		6.1.html = 6.1.html
+		6.2.html = 6.2.html
+		6.3.html = 6.3.html
+		6.4.html = 6.4.html
+		6.5.html = 6.5.html
+		6.6.html = 6.6.html
+		7.1.html = 7.1.html
+		7.2.html = 7.2.html
+		..\mat\HTML\Lab_7\block_1.css = ..\mat\HTML\Lab_7\block_1.css
+		..\mat\HTML\Lab_7\block_2.css = ..\mat\HTML\Lab_7\block_2.css
+		..\mat\images\button_1.jpg = ..\mat\images\button_1.jpg
+		..\mat\images\button_4.jpg = ..\mat\images\button_4.jpg
+		..\mat\images\enot.jpg = ..\mat\images\enot.jpg
 		Tulips.jpg = Tulips.jpg
+		..\mat\HTML\Lab_5\video.mp4 = ..\mat\HTML\Lab_5\video.mp4
 	EndProjectSection
 EndProject
 Global
