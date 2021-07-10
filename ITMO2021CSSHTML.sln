@@ -54,7 +54,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML", "HTML", "{74C58F9D-4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab1", "Lab1", "{FB98AB8E-E7B5-4ECC-A723-9C21F74038D7}"
 	ProjectSection(SolutionItems) = preProject
+		about_buttons.html = about_buttons.html
+		classification.html = classification.html
 		index.html = index.html
+		Style.css = Style.css
 	EndProjectSection
 EndProject
 Global
