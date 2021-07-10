@@ -78,6 +78,69 @@ h1 {
     margin: 0 auto;
     width: 800px;
 }
+h1 {
+    color: rgb(178,34,34);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5em;
+    text-align: center;
+    text-shadow: 4px 3px 6px rgba(0,0,0,.5);
+    background-image: url('images/switok.png'); /*Добавляет фоновое изображение*/
+    background-repeat: no-repeat; /*Изображение не повторяется в рамках элемента*/
+    background-position: top center; /*Позиционирует изображение*/
+    background-size: contain; /*Определяет размеры фонового изображения, помещая его в область элемента*/
+    margin: 0 auto; /*Задает размер полей элемента*/
+    padding: 70px 50px; /* Задает размер отсутпов элемента */
+}
+
+h2 {
+    font: bold 3.5em Garamond, Times, serif;
+    margin-top: 25px;
+}
+
+em {
+    color: rgb(32,126,191);
+    text-transform: uppercase;
+    margin-left: 5px;
+    font-size: 70%;
+}
+
+div h3 {
+    color: rgb(112,128,144);
+    font-size: 3em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+p {
+    font-size: 1.5em;
+    line-height: 150%;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+    p:first-letter {
+        font-size: 2em;
+        font-weight: bold;
+        color: rgb(112,128,144);
+    }
+html {
+    font-size: 62.5%;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(216,191,216);
+}
+ol {
+    margin: 50px 0 25px 50px;
+    width: 200px;
+}
+
+li {
+    color: rgb(178,34,34);
+    font-size: 1.5em;
+    margin-bottom: 7px;
+}
+
 
 
 
