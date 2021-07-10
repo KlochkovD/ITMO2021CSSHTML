@@ -10,6 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML", "HTML", "{74C58F9D-4
 		1.1.html = 1.1.html
 		1.2.html = 1.2.html
 		1.3.html = 1.3.html
+		1.4.html = 1.4.html
+		1.5.html = 1.5.html
+		1.6.html = 1.6.html
 		Tulips.jpg = Tulips.jpg
 	EndProjectSection
 EndProject
