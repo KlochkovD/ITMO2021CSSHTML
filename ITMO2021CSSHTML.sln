@@ -52,9 +52,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML", "HTML", "{74C58F9D-4
 		..\mat\HTML\Lab_5\video.mp4 = ..\mat\HTML\Lab_5\video.mp4
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab1", "Lab1", "{FB98AB8E-E7B5-4ECC-A723-9C21F74038D7}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB98AB8E-E7B5-4ECC-A723-9C21F74038D7} = {9EBBE9FF-8557-4B58-8FD0-9A48B22A4E6C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EAB60EE8-C777-4FD4-8138-C4F05ABC62F2}
